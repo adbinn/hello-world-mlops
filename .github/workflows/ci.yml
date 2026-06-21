@@ -1,4 +1,3 @@
-#########
 name: CI - Train and Save the model
 
 on:
